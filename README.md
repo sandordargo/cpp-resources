@@ -12,10 +12,10 @@ C++ Learning Resrouces
 - [Modernes C++](https://www.modernescpp.com/)
 - [Simplify C++](https://arne-mertz.de/)
 - [Bartek's coding blog](https://www.bfilipek.com/)
--
--
--
--
+- [Andrzej's C++ blog](https://akrzemi1.wordpress.com/)
+- [foonathan::​blog()](https://foonathan.net/)
+- [ISO C++ Blog](https://isocpp.org/blog)
+- [Vittorio Romeo Personal Website](https://vittorioromeo.info/)
 - [Sandor Dargo's Blog](http://sandordargo.com/)
 
 ## Online compilers
