@@ -6,7 +6,7 @@ C++ Learning Resrouces
 - [Sutter's Mill](https://herbsutter.com/)
 - [Modernes C++](https://www.modernescpp.com/)
 - [Simplify C++](https://arne-mertz.de/)
--
+- [Bartek's coding blog](https://www.bfilipek.com/)
 -
 -
 -
