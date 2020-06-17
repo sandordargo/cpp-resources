@@ -33,3 +33,17 @@ C++ Learning Resrouces
 
 ## Free learning platforms
 - [exercism.io](https://exercism.io/tracks/cpp)
+
+## Videos
+
+- [GoingNative 2013: Sean Parent "C++ Seasoning"](https://channel9.msdn.com/Events/GoingNative/2013/Cpp-Seasoning)
+- [CppCon 2018: Ben Deane “Easy to Use, Hard to Misuse: Declarative Style in C++”](https://www.youtube.com/watch?v=I52uPJSoAT4)
+- [Italian C++ Conference 2020: Conor Hoekstra "My Least Favorite Anti-Pattern"](https://www.youtube.com/watch?v=CjHgL5EQdcY&list=PLsCm1Hs016LWIjOrEftUA42ZwxsF30vZB&index=8)
+- [CppCon 2016: Jason Turner “Rich Code for Tiny Computers: A Simple Commodore 64 Game in C++17”](https://www.youtube.com/watch?v=zBkNBP00wJE)
+- [CppCon 2018: Matt Godbolt “The Bits Between the Bits: How We Get to main()”](https://www.youtube.com/watch?v=dOfucXtyEsU)
+- [CppCon 2017: Louis Brandy “Curiously Recurring C++ Bugs at Facebook”](https://www.youtube.com/watch?v=lkgszkPnV8g)
+- [CppCon 2018: Herb Sutter “Thoughts on a more powerful and simpler C++ (5 of N)”](https://www.youtube.com/watch?v=80BZxujhY38)
+- [Core C++ 2019: Jason Turner "The Best Parts of C++"](https://www.youtube.com/watch?v=SZ__h7uEDGc)
+- [Pure Virtual C++ 2020](https://www.youtube.com/watch?v=c1ThUFISDF4)
+- [CppCon 2015: Greg Law " Give me 15 minutes & I'll change your view of GDB"](https://www.youtube.com/watch?v=PorfLSr3DDI)
+
