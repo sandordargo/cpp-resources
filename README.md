@@ -46,4 +46,5 @@ C++ Learning Resrouces
 - [Core C++ 2019: Jason Turner "The Best Parts of C++"](https://www.youtube.com/watch?v=SZ__h7uEDGc)
 - [Pure Virtual C++ 2020](https://www.youtube.com/watch?v=c1ThUFISDF4)
 - [CppCon 2015: Greg Law " Give me 15 minutes & I'll change your view of GDB"](https://www.youtube.com/watch?v=PorfLSr3DDI)
+- [CppCon 2016: Dan Saks “extern c: Talking to C Programmers about C++”](https://www.youtube.com/watch?v=D7Sd8A6_fYU)
 
