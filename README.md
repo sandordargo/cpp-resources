@@ -26,6 +26,7 @@ C++ Learning Resrouces
 - [foonathan::​blog()](https://foonathan.net/)
 - [ISO C++ Blog](https://isocpp.org/blog)
 - [Vittorio Romeo Personal Website](https://vittorioromeo.info/)
+- [Lesley Lai's Blog](https://lesleylai.info/)
 - [Sandor Dargo's Blog](http://sandordargo.com/)
 
 ## Online compilers
