@@ -27,6 +27,7 @@ C++ Learning Resrouces
 - [ISO C++ Blog](https://isocpp.org/blog)
 - [Vittorio Romeo Personal Website](https://vittorioromeo.info/)
 - [Lesley Lai's Blog](https://lesleylai.info/)
+- [Arthur O’Dwyer's Blog](https://quuxplusone.github.io/blog/)
 - [Sandor Dargo's Blog](http://sandordargo.com/)
 
 ## Online compilers
