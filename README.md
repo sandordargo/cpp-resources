@@ -46,7 +46,7 @@ C++ Learning Resrouces
 ## Free learning platforms
 - [exercism.io](https://exercism.io/tracks/cpp)
 
-## Videos
+## Conferernce Videos
 - [GoingNative 2013: Sean Parent "C++ Seasoning"](https://channel9.msdn.com/Events/GoingNative/2013/Cpp-Seasoning)
 - [CppCon 2018: Ben Deane “Easy to Use, Hard to Misuse: Declarative Style in C++”](https://www.youtube.com/watch?v=I52uPJSoAT4)
 - [Italian C++ Conference 2020: Conor Hoekstra "My Least Favorite Anti-Pattern"](https://www.youtube.com/watch?v=CjHgL5EQdcY&list=PLsCm1Hs016LWIjOrEftUA42ZwxsF30vZB&index=8)
@@ -58,6 +58,14 @@ C++ Learning Resrouces
 - [Pure Virtual C++ 2020](https://www.youtube.com/watch?v=c1ThUFISDF4)
 - [CppCon 2015: Greg Law " Give me 15 minutes & I'll change your view of GDB"](https://www.youtube.com/watch?v=PorfLSr3DDI)
 - [CppCon 2016: Dan Saks “extern c: Talking to C Programmers about C++”](https://www.youtube.com/watch?v=D7Sd8A6_fYU)
+- [CppCon 2017: Jason Turner “Practical C++17”](https://youtu.be/nnY4e4faNp0)
+- [CppCon 2018: Jason Turner "Applied Best Practices"](https://youtu.be/DHOlsEd0eDE)
+- [CppCon 2015: Bjarne Stroustrup “Writing Good C++14”](https://youtu.be/1OEu9C51K2A)
+- [CppCon 2014: Herb Sutter "Back to the Basics! Essentials of Modern C++ Style"](https://youtu.be/xnqTKD8uD64)
+- [CppCon 2017: Matt Godbolt "What Has My Compiler Done for Me Lately? Unbolting the Compiler's Lid"](https://www.youtube.com/watch?v=bSkpMdDe4g4)
+- [CppCon 2017: Kate Gregory "10 Core Guidelines You Need to Start Using Now"](https://youtu.be/XkDEzfpdcSg)
+- [CppCon 2018: Kate Gregory "Simplicity: Not Just For Beginners"](https://www.youtube.com/watch?v=n0Ak6xtVXno)
+
 
 ## Online courses
 - [Learn to Program with C++ by Kate Gregory](https://www.pluralsight.com/courses/learn-program-cplusplus)
