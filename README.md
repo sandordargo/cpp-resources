@@ -64,3 +64,6 @@ C++ Learning Resrouces
 - [C++ Fundamentals Including C++ 17 by Kate Gregory](https://www.pluralsight.com/courses/cplusplus-fundamentals-c17)
 - [Beautiful C++: STL Algorithms by Kate Gregory](https://www.pluralsight.com/courses/beautiful-cplusplus-stl-algorithms)
 
+# Podcasts
+- [CppCast](https://www.cppcast.com/)
+- [CppChat](https://cpp.chat/)
