@@ -14,7 +14,10 @@ C++ Learning Resrouces
 - [C++ Templates: The Complete Guide (2nd Edition) by David Vandevoorde, Nicolai M. Josuttis, Douglas Gregor](https://amzn.to/3e5MS7x)
 - [C++17 - The Complete Guide: First Edition by Nicolai M. Josuttis](https://amzn.to/2YGN0n9)
 - [C++ Concurrency in Action 2nd Edition by Anthony Williams](https://amzn.to/3hzvYA0)
-
+- [Programming: Principles and Practice Using C++ 2nd edition by Bjarne Stroustrup](https://amzn.to/3cChOhP)
+- [C++ Best Practices by Jason Turner](https://leanpub.com/cppbestpractices)
+- [Mastering the C++17 STL by Arthur O'Dwyer](https://amzn.to/2MJEP7o)
+- [C++ Concurrency in Action, Second Edition by Anthony Williams](https://amzn.to/3trkUeu)
 
 ## Blogs
 - [Fluent C++](https://www.fluentcpp.com/)
@@ -28,18 +31,22 @@ C++ Learning Resrouces
 - [Vittorio Romeo Personal Website](https://vittorioromeo.info/)
 - [Lesley Lai's Blog](https://lesleylai.info/)
 - [Arthur O’Dwyer's Blog](https://quuxplusone.github.io/blog/)
+- [The Pasture](https://thephd.github.io/)
 - [Sandor Dargo's Blog](http://sandordargo.com/)
+- [Barry Revzin](https://brevzin.github.io/)
+- [artificial::mind](https://artificial-mind.net/)
+- [Shafik Yaghmour's Blog](https://shafik.github.io/)
 
-## Online compilers
+## Online compilers & tools
 - [CoLiRu](http://coliru.stacked-crooked.com/)
 - [Compiler Explorer](https://godbolt.org/)
 - [Wandbox](https://wandbox.org/)
+- [Quick C++ Benchmark](https://quick-bench.com/)
 
 ## Free learning platforms
 - [exercism.io](https://exercism.io/tracks/cpp)
 
 ## Videos
-
 - [GoingNative 2013: Sean Parent "C++ Seasoning"](https://channel9.msdn.com/Events/GoingNative/2013/Cpp-Seasoning)
 - [CppCon 2018: Ben Deane “Easy to Use, Hard to Misuse: Declarative Style in C++”](https://www.youtube.com/watch?v=I52uPJSoAT4)
 - [Italian C++ Conference 2020: Conor Hoekstra "My Least Favorite Anti-Pattern"](https://www.youtube.com/watch?v=CjHgL5EQdcY&list=PLsCm1Hs016LWIjOrEftUA42ZwxsF30vZB&index=8)
@@ -51,4 +58,9 @@ C++ Learning Resrouces
 - [Pure Virtual C++ 2020](https://www.youtube.com/watch?v=c1ThUFISDF4)
 - [CppCon 2015: Greg Law " Give me 15 minutes & I'll change your view of GDB"](https://www.youtube.com/watch?v=PorfLSr3DDI)
 - [CppCon 2016: Dan Saks “extern c: Talking to C Programmers about C++”](https://www.youtube.com/watch?v=D7Sd8A6_fYU)
+
+## Online courses
+- [Learn to Program with C++ by Kate Gregory](https://www.pluralsight.com/courses/learn-program-cplusplus)
+- [C++ Fundamentals Including C++ 17 by Kate Gregory](https://www.pluralsight.com/courses/cplusplus-fundamentals-c17)
+- [Beautiful C++: STL Algorithms by Kate Gregory](https://www.pluralsight.com/courses/beautiful-cplusplus-stl-algorithms)
 
