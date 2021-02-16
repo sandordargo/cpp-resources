@@ -18,6 +18,7 @@ C++ Learning Resrouces
 - [C++ Best Practices by Jason Turner](https://leanpub.com/cppbestpractices)
 - [Mastering the C++17 STL by Arthur O'Dwyer](https://amzn.to/2MJEP7o)
 - [C++ Concurrency in Action, Second Edition by Anthony Williams](https://amzn.to/3trkUeu)
+- [How to use const in C++ by Sandor Dargo](https://leanpub.com/cppconst/)
 
 ## Blogs
 - [Fluent C++](https://www.fluentcpp.com/)
