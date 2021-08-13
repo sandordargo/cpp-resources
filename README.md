@@ -4,9 +4,9 @@ In this repository, you'll find many useful C++ learning resources organized int
 
 - [Books](./books.md)
 - [Blogs](./blogs.md)
-- [Online compilers & tools](./tools-and-compilers.md)
-- [Free learning platforms](./free-learning-platforms.md)
 - [Conferernce Videos](./conference-videos.md)
+- [Free learning platforms](./free-learning-platforms.md)
+- [Online compilers & tools](./tools-and-compilers.md)
 - [Online courses](./online-courses.md)
 - [Podcasts](./podcasts.md)
 
