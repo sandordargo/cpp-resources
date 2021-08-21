@@ -12,6 +12,8 @@ The books are organized by different topics, than by alphabetical order
 - [How to use const in C++ by Sandor Dargo](https://leanpub.com/cppconst/)
 - [Modern C++ Programming with Test-Driven Development: Code Better, Sleep Better by Jeff Langr](https://amzn.to/2B8fb6y)
 - [Programming: Principles and Practice Using C++ 2nd edition by Bjarne Stroustrup](https://amzn.to/3cChOhP)
+- [C++ Crash Course: A Fast-Paced Introduction by Josh Lospinoso](https://nostarch.com/cppcrashcourse)
+
 
 ## The Standard Library
 - [Mastering the C++17 STL by Arthur O'Dwyer](https://amzn.to/2MJEP7o)
