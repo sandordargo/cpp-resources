@@ -15,3 +15,4 @@
 - [Barry Revzin](https://brevzin.github.io/)
 - [artificial::mind](https://artificial-mind.net/)
 - [Shafik Yaghmour's Blog](https://shafik.github.io/)
+- [Vorbrodt's C++ Blog](https://vorbrodt.blog/)
