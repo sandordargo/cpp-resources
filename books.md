@@ -18,6 +18,7 @@ The books are organized by different topics, than by alphabetical order
 ## The Standard Library
 - [Mastering the C++17 STL by Arthur O'Dwyer](https://amzn.to/2MJEP7o)
 - [The C++ Standard Library: A Tutorial and Reference by Nicolai M. Josuttis](https://amzn.to/30NxKYC)
+- [Effective STL by Scott Meyers](https://amzn.to/3sER2uZ)
 
 ## Generic programming
 - [C++ Concepts by Sandor Dargo](https://leanpub.com/cppconcepts/)
@@ -32,4 +33,3 @@ The books are organized by different topics, than by alphabetical order
 
 ## Optimization
 - [Optimized C++ by Kurt Guntheroth](https://amzn.to/2BdF58P)
-
