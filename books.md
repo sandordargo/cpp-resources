@@ -12,10 +12,13 @@ The books are organized by different topics, than by alphabetical order
 - [How to use const in C++ by Sandor Dargo](https://leanpub.com/cppconst/)
 - [Modern C++ Programming with Test-Driven Development: Code Better, Sleep Better by Jeff Langr](https://amzn.to/2B8fb6y)
 - [Programming: Principles and Practice Using C++ 2nd edition by Bjarne Stroustrup](https://amzn.to/3cChOhP)
+- [C++ Crash Course: A Fast-Paced Introduction by Josh Lospinoso](https://nostarch.com/cppcrashcourse)
+
 
 ## The Standard Library
 - [Mastering the C++17 STL by Arthur O'Dwyer](https://amzn.to/2MJEP7o)
 - [The C++ Standard Library: A Tutorial and Reference by Nicolai M. Josuttis](https://amzn.to/30NxKYC)
+- [Effective STL by Scott Meyers](https://amzn.to/3sER2uZ)
 
 ## Generic programming
 - [C++ Concepts by Sandor Dargo](https://leanpub.com/cppconcepts/)
@@ -30,4 +33,3 @@ The books are organized by different topics, than by alphabetical order
 
 ## Optimization
 - [Optimized C++ by Kurt Guntheroth](https://amzn.to/2BdF58P)
-
