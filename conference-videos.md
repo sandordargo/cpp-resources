@@ -1,5 +1,5 @@
 # Conferernce Videos
-- [GoingNative 2013: Sean Parent "C++ Seasoning"](https://channel9.msdn.com/Events/GoingNative/2013/Cpp-Seasoning)
+- [GoingNative 2013: Sean Parent "C++ Seasoning"](https://www.youtube.com/watch?v=W2tWOdzgXHA)
 - [CppCon 2018: Ben Deane “Easy to Use, Hard to Misuse: Declarative Style in C++”](https://www.youtube.com/watch?v=I52uPJSoAT4)
 - [Italian C++ Conference 2020: Conor Hoekstra "My Least Favorite Anti-Pattern"](https://www.youtube.com/watch?v=CjHgL5EQdcY&list=PLsCm1Hs016LWIjOrEftUA42ZwxsF30vZB&index=8)
 - [CppCon 2016: Jason Turner “Rich Code for Tiny Computers: A Simple Commodore 64 Game in C++17”](https://www.youtube.com/watch?v=zBkNBP00wJE)
