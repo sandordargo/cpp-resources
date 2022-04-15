@@ -13,6 +13,7 @@ The books are organized by different topics, than by alphabetical order
 - [How to use const in C++ by Sandor Dargo](https://leanpub.com/cppconst/)
 - [Modern C++ Programming with Test-Driven Development: Code Better, Sleep Better by Jeff Langr](https://amzn.to/2B8fb6y)
 - [Programming: Principles and Practice Using C++ 2nd edition by Bjarne Stroustrup](https://amzn.to/3cChOhP)
+- [Beautiful C++: 30 Core Guidelines for Writing Clean, Safe and Fast Code by J. Guy Davidson and Kate Gregory](https://www.amazon.com/Beautiful-Core-Guidelines-Writing-Clean/dp/0137647840?&_encoding=UTF8&tag=sandordargo-20&linkCode=ur2&linkId=4a574de3a8d52ce616b3bdddd26e0c8c&camp=1789&creative=9325)
 
 
 ## The Standard Library
