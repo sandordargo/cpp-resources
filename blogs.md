@@ -21,6 +21,7 @@ Here are some blogs I like. I separate them in two parts. First there are the ac
 - [Vorbrodt's C++ Blog](https://vorbrodt.blog/)
 - [Marius Bancila's Blog](https://mariusbancila.ro/blog/)
 - [craft::cpp](https://m-peko.github.io/craft-cpp/)
+- [Johnny's Software Lab](https://johnnysswlab.com/)
 
 ## Blogs that haven't been udpated for at least 3 months
 
