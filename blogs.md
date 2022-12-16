@@ -22,6 +22,8 @@ Here are some blogs I like. I separate them in two parts. First there are the ac
 - [Marius Bancila's Blog](https://mariusbancila.ro/blog/)
 - [craft::cpp](https://m-peko.github.io/craft-cpp/)
 - [Johnny's Software Lab](https://johnnysswlab.com/)
+- [cor3ntin](https://cor3ntin.github.io/)
+- [Daniel Lemire's blog](https://lemire.me/blog/)
 
 ## Blogs that haven't been udpated for at least 3 months
 
