@@ -7,6 +7,7 @@ The books are organized by different topics, than by alphabetical order
 - [API Design for C++ by Martin Reddy](https://amzn.to/2UNqUP4)
 - [C++ Best Practices by Jason Turner](https://leanpub.com/cppbestpractices)
 - [C++ Crash Course: A Fast-Paced Introduction by Josh Lospinoso](https://nostarch.com/cppcrashcourse)
+- [C++: The Comprehensive Guide to Mastering Modern C++](https://amzn.to/4lb84LG)
 - [C++17 - The Complete Guide: First Edition by Nicolai M. Josuttis](https://amzn.to/2YGN0n9)
 - [Effective Modern C++ by Scott Meyers](https://amzn.to/2Y3tySC)
 - [Exceptional C++: 47 Engineering Puzzles, Programming Problems, and Solutions by Herb Sutter](https://amzn.to/3e5wVOF)
