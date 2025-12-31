@@ -24,6 +24,7 @@ Here are some blogs I like. I separate them in two parts. First there are the ac
 - [Daniel Lemire's blog](https://lemire.me/blog/)
 - [C++ on a Friday](https://blog.knatten.org/)
 - [Alex Dathskovsky - The C++ enthusiast](https://www.cppnext.com/blog)
+- [Giovanni Dicanio's Blog](https://giodicanio.com/)
 
 ## Blogs that haven't been udpated for at least 6 months
 
