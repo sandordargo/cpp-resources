@@ -26,6 +26,7 @@ Here are some blogs I like. I separate them in two parts. First there are the ac
 - [Alex Dathskovsky - The C++ enthusiast](https://www.cppnext.com/blog)
 - [Giovanni Dicanio's Blog](https://giodicanio.com/)
 - [The C++ Way](https://thecppway.com/)
+- [Mathieu Ropert's blog](https://mropert.github.io/)
 
 ## Blogs that haven't been udpated for at least 6 months
 
